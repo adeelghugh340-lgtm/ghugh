@@ -14,6 +14,7 @@ import Recharts from './component/Recharts';
 import Test from './component/Test';
 import Work from './component/Work';
 import Jutt from './component/Jutt';
+import { Asss } from './component/Asss';
 function App() {
   return (
     <div className="App">
@@ -33,6 +34,7 @@ function App() {
       {/* <Test/> */}
       {/* <Work/> */}
       <Jutt/>
+      <Asss/>
     </div>
   );
 }
