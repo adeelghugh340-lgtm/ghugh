@@ -13,7 +13,7 @@ const LearnProps = () => {
         LearnProps Parents<br></br>
       Type Text:<input type='text' onChange={(e)=>setHellow(e.target.value)}></input>
       <h1 style={{border:border}}>{hellow}</h1>
-      {<ChildOne abc={hellow} border={border}/>}
+      {/* {<ChildOne abc={hellow} border={border}/>} */}
       {<ChildTwo xyz={hellow} border={border}/>}
        {/* {<ChildFour xyz={hellow}/>}
       {< ChildThree rrr={hellow}/>} 

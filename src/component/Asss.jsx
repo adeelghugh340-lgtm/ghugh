@@ -3,7 +3,7 @@ import React from 'react'
 export const Asss = () => {
   return (
     <div>
-        Asss
+        <h1>Asss</h1>
 
     </div>
   )

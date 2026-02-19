@@ -23,7 +23,7 @@ function App() {
       {/* <User1/> */}
       {/* <But/> */}
       {/* <Ghugh/> */}
-      {/* <LearnProps/> */}
+      <LearnProps/>
       {/* <Useeffect/> */}
       {/* <ChildOne/> */}
       {/* <ChildTwo/> */}
@@ -33,8 +33,8 @@ function App() {
       {/* <Child/> */}
       {/* <Test/> */}
       {/* <Work/> */}
-      <Jutt/>
-      <Asss/>
+      {/* <Jutt/> */}
+      {/* <Asss/> */}
     </div>
   );
 }
