@@ -8,6 +8,15 @@ const Maqbool = () => {
             <h1>ghugh</h1>
             <h1>Adeel</h1>
         </h1>
+        <h2 >
+          <span >pakistan</span>
+          <span >punjab</span>
+          <span>pattoki</span>
+          <span>nizampura</span>
+          <input type="text">Text here</input>
+
+
+        </h2>
     </div>
   )
 }
