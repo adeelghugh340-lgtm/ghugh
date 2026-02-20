@@ -13,6 +13,7 @@ const AdeelWork = () => {
         </h1>
         <h1 style={{color:"red"}}>Adeel Ali</h1>
         <input type='password' style={{border:"1px solid red",borderRadius:"2px"}}></input>
+        <h1  style={{color:"red"}}>Now i am learning git and git hub</h1>
     </div>
     
   )
