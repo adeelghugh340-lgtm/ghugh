@@ -16,6 +16,7 @@ import Work from './component/Work';
 import Jutt from './component/Jutt';
 import { Asss } from './component/Asss';
 import Maqbool from './component/Maqbool';
+import Update from './component/Update';
 function App() {
   return (
     <div className="App">
@@ -24,7 +25,7 @@ function App() {
       {/* <User1/> */}
       {/* <But/> */}
       {/* <Ghugh/> */}
-      <LearnProps/>
+      {/* <LearnProps/> */}
       {/* <Useeffect/> */}
       {/* <ChildOne/> */}
       {/* <ChildTwo/> */}
@@ -37,6 +38,7 @@ function App() {
       {/* <Jutt/> */}
       {/* <Asss/> */}
       <Maqbool/>
+      <Update/>
     </div>
   );
 }
