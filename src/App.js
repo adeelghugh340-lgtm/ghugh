@@ -15,6 +15,7 @@ import Test from './component/Test';
 import Work from './component/Work';
 import Jutt from './component/Jutt';
 import { Asss } from './component/Asss';
+import Maqbool from './component/Maqbool';
 function App() {
   return (
     <div className="App">
@@ -35,6 +36,7 @@ function App() {
       {/* <Work/> */}
       {/* <Jutt/> */}
       {/* <Asss/> */}
+      <Maqbool/>
     </div>
   );
 }
